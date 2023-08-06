@@ -1,0 +1,88 @@
+body{
+    background-color: #c40ac4e9;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: row;
+}
+.container{
+    background-color: #ffffff;
+    border: 1px solid ;
+    border-radius: 70px;
+    display: flex;
+    flex-direction: row;
+    padding: 40px 40px 30px 40px;
+    margin: 50px auto ;
+    max-width: 2000px;
+    
+    box-shadow: 0 0 10px;
+    height: auto;
+}
+img{
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 40px ;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+.form{
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
+.form div{
+    margin-bottom: 20px;
+}
+input{
+    width: 280px;
+    height: 40px;
+    border-radius: 300px;
+    border-color: none;
+    margin-top: 5px;
+    font-size: 18px;
+    text-align: left;
+    text-indent: 20px;
+    background-color: #80808043;
+}
+.icon{
+    padding: 10px;
+    
+}
+}
+.text{
+    text-align: center;
+    margin-top: 60px;
+    padding: 30px;
+}
+h3{
+    font-family: sans-serif;
+    margin-top: 40px;
+    text-align: center;
+}
+button{
+    width: 300px;
+    height: 45px;
+    border-radius: 300px;
+    background-color: #2ebb15ec;
+    color: #ffffff;
+    font-size: 18px;
+}
+h6{
+    font-size: 14px;
+    color: #000000;
+}
+span{
+    color: #008000;
+}
+h4{
+    color: #008000;
+}
+@media(min-width:200px){
+}
+@media(max-width:900px){
+}
+
